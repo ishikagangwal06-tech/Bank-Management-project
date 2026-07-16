@@ -1,0 +1,22 @@
+[
+    {
+        "account_no": 74259614,
+        "name": "ishika",
+        "age": 20,
+        "email": "ishika@gmail.com",
+        "balance": 0
+    },
+    {
+        "pin": "$2b$12$EXec1bAmG101yi8GQp9EPOaBLq2LA/5qaF1BNszhumcTiklC6x11W"
+    },
+    {
+        "account_no": 97590278,
+        "name": "ishika",
+        "age": 20,
+        "email": "ishik@gmail.com",
+        "balance": 0
+    },
+    {
+        "pin": "$2b$12$VwjJmtuqX3T7q6Fx5hkjguG.twL2kYZG18Xl/KxXoh9wOaDE75xI."
+    }
+]
